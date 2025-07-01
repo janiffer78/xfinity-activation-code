@@ -3,7 +3,7 @@ How to Get Your Xfinity Activation Code Fast? 🚀📺
 
 Setting up a new service or device with Xfinity? Whether it's a TV box, Flex, Stream app, or internet modem, one key piece of information you’ll need is your **Xfinity activation code**. This unique code allows you to link your device or service to your Xfinity account so that you can start enjoying internet, TV, and streaming with ease. 📡
 
-.. image:: start.png
+.. image:: activate.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
